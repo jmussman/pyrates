@@ -28,3 +28,18 @@ To set up branding visit Customizations &rarr; Brands
 ## Settings
 
 ## SMS
+
+
+# License
+
+The code is licensed under the MIT license. You may use and modify all or part of it as you choose, as long as attribution to the source is provided per the license. See the details in the [license file](./LICENSE.md) or at the [Open Source Initiative](https://opensource.org/licenses/MIT)
+
+<hr>
+Copyright © 2023 Joel Mussman. All rights reserved.
+
+## Support
+
+Since I give stuff away for free, and if you would like to keep seeing more stuff like this, then please consider
+a contribution to *Joel's Coffee Fund* at **Smallrock** to help keep the good stuff coming :)<br />
+
+[![Donate](.common/Donate-Paypal.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XPUGVGZZ8RUAA)
